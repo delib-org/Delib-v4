@@ -1,0 +1,25 @@
+{
+  "name": "delib-v4",
+  "version": "0.0.1",
+  "description": "Delib base on node js as and APIs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/delib-org"
+  },
+  "keywords": [
+    "deliberation",
+    "democracy",
+    "decision-making"
+  ],
+  "author": "Tal Yaron",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.8.7",
+    "socket.io": "^2.3.0"
+  }
+}
